@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classLatticeLib_1_1Lattice.html" title="LatticeLib::Lattice" alt="" coords="5,55,130,80"/>
+<area shape="rect" id="node2" href="$classLatticeLib_1_1BCCLattice.html" title="LatticeLib::BCCLattice" alt="" coords="178,5,332,31"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1CCLattice.html" title="LatticeLib::CCLattice" alt="" coords="183,55,327,80"/>
+<area shape="rect" id="node4" href="$classLatticeLib_1_1FCCLattice.html" title="LatticeLib::FCCLattice" alt="" coords="179,104,331,129"/>
+</map>

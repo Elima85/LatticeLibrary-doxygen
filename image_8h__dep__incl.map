@@ -1,0 +1,34 @@
+<map id="src/image.h" name="src/image.h">
+<area shape="rect" id="node2" href="$intensityworkset_8h.html" title="src/intensityworkset.h" alt="" coords="1466,79,1614,104"/>
+<area shape="rect" id="node3" href="$distancemeasure_8h.html" title="src/distancemeasure.h" alt="" coords="198,152,354,177"/>
+<area shape="rect" id="node4" href="$antialiasedeuclideandistance_8h.html" title="src/antialiasedeuclideandistance.h" alt="" coords="632,225,856,251"/>
+<area shape="rect" id="node5" href="$distancetransform_8h.html" title="src/distancetransform.h" alt="" coords="347,225,507,251"/>
+<area shape="rect" id="node6" href="$fuzzyconnectedness_8h.html" title="src/fuzzyconnectedness.h" alt="" coords="1322,299,1497,324"/>
+<area shape="rect" id="node7" href="$mrisegmentation_8cpp.html" title="src/mrisegmentation.cpp" alt="" coords="1201,372,1367,397"/>
+<area shape="rect" id="node8" href="$mrisegmentationhighres_8cpp.html" title="src/mrisegmentationhighres.cpp" alt="" coords="1774,372,1984,397"/>
+<area shape="rect" id="node9" href="$fuzzydistance_8h.html" title="src/fuzzydistance.h" alt="" coords="686,299,821,324"/>
+<area shape="rect" id="node10" href="$geodesicdistance_8h.html" title="src/geodesicdistance.h" alt="" coords="78,299,234,324"/>
+<area shape="rect" id="node11" href="$minimumbarrierdistance_8h.html" title="src/minimumbarrierdistance.h" alt="" coords="397,299,593,324"/>
+<area shape="rect" id="node13" href="$seededdistancemeasure_8h.html" title="src/seededdistancemeasure.h" alt="" coords="2090,152,2289,177"/>
+<area shape="rect" id="node14" href="$approximateminimumbarrierdistance_8h.html" title="src/approximateminimumbarrierdistance.h" alt="" coords="1521,299,1791,324"/>
+<area shape="rect" id="node15" href="$seededdistancetransform_8h.html" title="src/seededdistancetransform.h" alt="" coords="2118,225,2322,251"/>
+<area shape="rect" id="node16" href="$segmentation_8h.html" title="src/segmentation.h" alt="" coords="2317,299,2451,324"/>
+<area shape="rect" id="node19" href="$downsamplevolume_8cpp.html" title="src/downsamplevolume.cpp" alt="" coords="2999,225,3185,251"/>
+<area shape="rect" id="node24" href="$imageresampler_8h.html" title="src/imageresampler.h" alt="" coords="3000,152,3149,177"/>
+<area shape="rect" id="node25" href="$weightassignment_8h.html" title="src/weightassignment.h" alt="" coords="3421,79,3582,104"/>
+<area shape="rect" id="node26" href="$uniformweight_8h.html" title="src/uniformweight.h" alt="" coords="3173,152,3310,177"/>
+<area shape="rect" id="node27" href="$isotropicgaussianweight_8h.html" title="src/isotropicgaussianweight.h" alt="" coords="3421,152,3616,177"/>
+<area shape="rect" id="node28" href="$imagearithmetic_8h.html" title="src/imagearithmetic.h" alt="" coords="3083,79,3231,104"/>
+<area shape="rect" id="node29" href="$modalitymerge_8h.html" title="src/modalitymerge.h" alt="" coords="3256,79,3397,104"/>
+<area shape="rect" id="node30" href="$structuringelement_8h.html" title="src/structuringelement.h" alt="" coords="2812,225,2975,251"/>
+<area shape="rect" id="node31" href="$weightedaveragefilter_8h.html" title="src/weightedaveragefilter.h" alt="" coords="2465,152,2645,177"/>
+<area shape="rect" id="node32" href="$templatefilter_8h.html" title="src/templatefilter.h" alt="" coords="2490,79,2619,104"/>
+<area shape="rect" id="node12" href="$distancetovoronoicellcenter_8h.html" title="src/distancetovoronoicellcenter.h" alt="" coords="631,152,846,177"/>
+<area shape="rect" id="node17" href="$distancetoballcenter_8h.html" title="src/distancetoballcenter.h" alt="" coords="1793,152,1965,177"/>
+<area shape="rect" id="node18" href="$distancetoelementcenter_8h.html" title="src/distancetoelementcenter.h" alt="" coords="921,152,1119,177"/>
+<area shape="rect" id="node20" href="$lineardistancetocenter_8h.html" title="src/lineardistancetocenter.h" alt="" coords="1143,152,1326,177"/>
+<area shape="rect" id="node21" href="$objectsurfaceareafromvoronoicellintersection_8h.html" title="src/objectsurfaceareafromvoronoicellintersection.h" alt="" coords="1381,225,1699,251"/>
+<area shape="rect" id="node22" href="$objectsurfacearea_8h.html" title="src/objectsurfacearea.h" alt="" coords="1401,152,1561,177"/>
+<area shape="rect" id="node23" href="$objectvolume_8h.html" title="src/objectvolume.h" alt="" coords="1636,152,1769,177"/>
+<area shape="rect" id="node33" href="$sequencefilter_8h.html" title="src/sequencefilter.h" alt="" coords="2669,152,2805,177"/>
+</map>

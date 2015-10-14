@@ -1,0 +1,4 @@
+<map id="LatticeLib::WeightedAverageFilter&lt; coefficientTemplate, intensityTemplate &gt;" name="LatticeLib::WeightedAverageFilter&lt; coefficientTemplate, intensityTemplate &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1TemplateFilter.html" title="{LatticeLib::TemplateFilter\l\&lt; coefficientTemplate, intensity\lTemplate \&gt;\n||+ TemplateFilter()\l+ ~TemplateFilter()\l+ applyToBand()\l+ applyToImage()\l}" alt="" coords="5,233,209,373"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1SpatialTemplate.html" title="{LatticeLib::SpatialTemplate\l\&lt; coefficientTemplate \&gt;\n|# coefficients\l# neighborhoodSize\l|+ SpatialTemplate()\l+ ~SpatialTemplate()\l+ getNeighborhoodSize()\l+ getNCoefficients()\l+ getCoefficients()\l+ getCoefficient()\l+ findCoefficient()\l}" alt="" coords="17,5,197,185"/>
+</map>

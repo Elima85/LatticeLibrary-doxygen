@@ -1,0 +1,5 @@
+<map id="LatticeLib::Norm&lt; T &gt;" name="LatticeLib::Norm&lt; T &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1MaximumNorm.html" title="{LatticeLib::MaximumNorm\&lt; T \&gt;\n||+ MaximumNorm()\l+ MaximumNorm()\l+ ~MaximumNorm()\l+ compute()\l}" alt="" coords="5,173,212,287"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1PNorm.html" title="{LatticeLib::PNorm\&lt; T \&gt;\n|&#45; p\l|+ PNorm()\l+ PNorm()\l+ ~PNorm()\l+ getP()\l+ compute()\l}" alt="" coords="236,167,394,293"/>
+<area shape="rect" id="node4" href="$classLatticeLib_1_1ProductNorm.html" title="{LatticeLib::ProductNorm\&lt; T \&gt;\n||+ ProductNorm()\l+ ProductNorm()\l+ ~ProductNorm()\l+ compute()\l}" alt="" coords="418,173,613,287"/>
+</map>

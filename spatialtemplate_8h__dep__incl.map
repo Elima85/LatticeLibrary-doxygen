@@ -1,0 +1,9 @@
+<map id="src/spatialtemplate.h" name="src/spatialtemplate.h">
+<area shape="rect" id="node2" href="$structuringelement_8h.html" title="src/structuringelement.h" alt="" coords="49,79,213,104"/>
+<area shape="rect" id="node6" href="$templatefilter_8h.html" title="src/templatefilter.h" alt="" coords="288,79,417,104"/>
+<area shape="rect" id="node7" href="$weightedaveragefilter_8h.html" title="src/weightedaveragefilter.h" alt="" coords="168,152,348,177"/>
+<area shape="rect" id="node8" href="$sequencefilter_8h.html" title="src/sequencefilter.h" alt="" coords="379,152,515,177"/>
+<area shape="rect" id="node3" href="$segmentation_8h.html" title="src/segmentation.h" alt="" coords="127,225,261,251"/>
+<area shape="rect" id="node4" href="$mrisegmentation_8cpp.html" title="src/mrisegmentation.cpp" alt="" coords="5,299,172,324"/>
+<area shape="rect" id="node5" href="$mrisegmentationhighres_8cpp.html" title="src/mrisegmentationhighres.cpp" alt="" coords="195,299,406,324"/>
+</map>

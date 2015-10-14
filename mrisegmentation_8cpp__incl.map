@@ -1,0 +1,37 @@
+<map id="src/mrisegmentation.cpp" name="src/mrisegmentation.cpp">
+<area shape="rect" id="node2" href="$defs_8h.html" title="defs.h" alt="" coords="3387,445,3445,471"/>
+<area shape="rect" id="node3" href="$image_8h.html" title="image.h" alt="" coords="1902,372,1971,397"/>
+<area shape="rect" id="node10" href="$lattice_8h.html" title="lattice.h" alt="" coords="273,445,341,471"/>
+<area shape="rect" id="node13" href="$cclattice_8h.html" title="cclattice.h" alt="" coords="5,152,86,177"/>
+<area shape="rect" id="node14" href="$bcclattice_8h.html" title="bcclattice.h" alt="" coords="80,225,168,251"/>
+<area shape="rect" id="node15" href="$fcclattice_8h.html" title="fcclattice.h" alt="" coords="162,79,246,104"/>
+<area shape="rect" id="node16" href="$intensityworkset_8h.html" title="intensityworkset.h" alt="" coords="1065,299,1192,324"/>
+<area shape="rect" id="node21" href="$objectsurfaceareafromvoronoicellintersection_8h.html" title="objectsurfaceareafromvoronoicellintersection.h" alt="" coords="394,152,691,177"/>
+<area shape="rect" id="node24" href="$seededdistancemeasure_8h.html" title="seededdistancemeasure.h" alt="" coords="1729,225,1907,251"/>
+<area shape="rect" id="node27" href="$seed_8h.html" title="seed.h" alt="" coords="1787,299,1848,324"/>
+<area shape="rect" id="node29" href="$approximateminimumbarrierdistance_8h.html" title="approximateminimumbarrierdistance.h" alt="" coords="2119,152,2367,177"/>
+<area shape="rect" id="node30" href="$pnorm_8h.html" title="pnorm.h" alt="" coords="3224,225,3294,251"/>
+<area shape="rect" id="node31" href="$norm_8h.html" title="norm.h" alt="" coords="3105,299,3168,324"/>
+<area shape="rect" id="node34" href="$fuzzyconnectedness_8h.html" title="fuzzyconnectedness.h" alt="" coords="1500,152,1653,177"/>
+<area shape="rect" id="node36" href="$fuzzydistance_8h.html" title="fuzzydistance.h" alt="" coords="1118,152,1232,177"/>
+<area shape="rect" id="node37" href="$geodesicdistance_8h.html" title="geodesicdistance.h" alt="" coords="766,152,901,177"/>
+<area shape="rect" id="node38" href="$minimumbarrierdistance_8h.html" title="minimumbarrierdistance.h" alt="" coords="1300,152,1474,177"/>
+<area shape="rect" id="node39" href="$maximumnorm_8h.html" title="maximumnorm.h" alt="" coords="3419,225,3539,251"/>
+<area shape="rect" id="node40" href="$productnorm_8h.html" title="productnorm.h" alt="" coords="2992,225,3099,251"/>
+<area shape="rect" id="node41" href="$seededdistancetransform_8h.html" title="seededdistancetransform.h" alt="" coords="1913,152,2095,177"/>
+<area shape="rect" id="node42" href="$segmentation_8h.html" title="segmentation.h" alt="" coords="2399,79,2511,104"/>
+<area shape="rect" id="node6" href="$exception_8h.html" title="exception.h" alt="" coords="1973,445,2062,471"/>
+<area shape="rect" id="node9" href="$neighbor_8h.html" title="neighbor.h" alt="" coords="909,519,993,544"/>
+<area shape="rect" id="node17" href="$dataredistribution_8h.html" title="dataredistribution.h" alt="" coords="1065,372,1200,397"/>
+<area shape="rect" id="node19" href="$linearinterpolation_8h.html" title="linearinterpolation.h" alt="" coords="1638,372,1776,397"/>
+<area shape="rect" id="node20" href="$interpolation_8h.html" title="interpolation.h" alt="" coords="1776,445,1881,471"/>
+<area shape="rect" id="node22" href="$objectsurfacearea_8h.html" title="objectsurfacearea.h" alt="" coords="496,225,635,251"/>
+<area shape="rect" id="node25" href="$priorityqueue_8h.html" title="priorityqueue.h" alt="" coords="2603,299,2712,324"/>
+<area shape="rect" id="node32" href="$vectoroperators_8h.html" title="vectoroperators.h" alt="" coords="2488,225,2614,251"/>
+<area shape="rect" id="node35" href="$distancemeasure_8h.html" title="distancemeasure.h" alt="" coords="1064,225,1198,251"/>
+<area shape="rect" id="node43" href="$minimumvaluefinder_8h.html" title="minimumvaluefinder.h" alt="" coords="3675,372,3826,397"/>
+<area shape="rect" id="node45" href="$structuringelement_8h.html" title="structuringelement.h" alt="" coords="2736,299,2878,324"/>
+<area shape="rect" id="node46" href="$weightedaveragefilter_8h.html" title="weightedaveragefilter.h" alt="" coords="2074,299,2233,324"/>
+<area shape="rect" id="node47" href="$maximumvaluefinder_8h.html" title="maximumvaluefinder.h" alt="" coords="3496,372,3651,397"/>
+<area shape="rect" id="node44" href="$vectorvaluefinder_8h.html" title="vectorvaluefinder.h" alt="" coords="3520,445,3654,471"/>
+</map>

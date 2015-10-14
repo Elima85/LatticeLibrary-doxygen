@@ -1,0 +1,20 @@
+<map id="src/downsamplevolume.cpp" name="src/downsamplevolume.cpp">
+<area shape="rect" id="node2" href="$defs_8h.html" title="defs.h" alt="" coords="1409,299,1466,324"/>
+<area shape="rect" id="node3" href="$image_8h.html" title="image.h" alt="" coords="886,225,954,251"/>
+<area shape="rect" id="node10" href="$lattice_8h.html" title="lattice.h" alt="" coords="398,299,466,324"/>
+<area shape="rect" id="node13" href="$cclattice_8h.html" title="cclattice.h" alt="" coords="202,152,283,177"/>
+<area shape="rect" id="node14" href="$bcclattice_8h.html" title="bcclattice.h" alt="" coords="307,152,395,177"/>
+<area shape="rect" id="node15" href="$fcclattice_8h.html" title="fcclattice.h" alt="" coords="43,152,127,177"/>
+<area shape="rect" id="node16" href="$intensityworkset_8h.html" title="intensityworkset.h" alt="" coords="1010,152,1137,177"/>
+<area shape="rect" id="node25" href="$imageresampler_8h.html" title="imageresampler.h" alt="" coords="655,79,782,104"/>
+<area shape="rect" id="node31" href="$uniformweight_8h.html" title="uniformweight.h" alt="" coords="514,79,630,104"/>
+<area shape="rect" id="node6" href="$exception_8h.html" title="exception.h" alt="" coords="875,299,965,324"/>
+<area shape="rect" id="node9" href="$neighbor_8h.html" title="neighbor.h" alt="" coords="654,372,738,397"/>
+<area shape="rect" id="node17" href="$dataredistribution_8h.html" title="dataredistribution.h" alt="" coords="1030,225,1165,251"/>
+<area shape="rect" id="node19" href="$linearinterpolation_8h.html" title="linearinterpolation.h" alt="" coords="1680,225,1818,251"/>
+<area shape="rect" id="node20" href="$interpolation_8h.html" title="interpolation.h" alt="" coords="1725,299,1830,324"/>
+<area shape="rect" id="node26" href="$weightassignment_8h.html" title="weightassignment.h" alt="" coords="570,152,710,177"/>
+<area shape="rect" id="node27" href="$vectoroperators_8h.html" title="vectoroperators.h" alt="" coords="1291,225,1416,251"/>
+<area shape="rect" id="node29" href="$pnorm_8h.html" title="pnorm.h" alt="" coords="1514,152,1584,177"/>
+<area shape="rect" id="node30" href="$norm_8h.html" title="norm.h" alt="" coords="1542,225,1605,251"/>
+</map>

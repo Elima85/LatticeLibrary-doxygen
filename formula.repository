@@ -1,0 +1,7 @@
+\form#0:$(row,column,layer)$
+\form#1:$(index)$
+\form#2:$[-0.5,0.5]$
+\form#3:$(r,c,l)$
+\form#4:$i = \#rows\times\#cols\times l + \#cols\times r + c$
+\form#5:$distance = 0.5 - coverage$
+\form#6:$((\sum_i v[i]^p)^\frac{1}{p})$

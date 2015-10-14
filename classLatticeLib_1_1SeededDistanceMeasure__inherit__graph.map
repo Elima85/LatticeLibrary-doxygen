@@ -1,0 +1,7 @@
+<map id="LatticeLib::SeededDistanceMeasure&lt; T &gt;" name="LatticeLib::SeededDistanceMeasure&lt; T &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1ApproximateMinimumBarrierDistance.html" title="{LatticeLib::ApproximateMinimum\lBarrierDistance\&lt; T \&gt;\n|# norm\l# pathMinimumValue\l# pathMaximumValue\l|+ ApproximateMinimumBarrier\lDistance()\l+ ~ApproximateMinimumBarrier\lDistance()\l+ setup()\l+ initialize()\l+ update()\l+ clear()\l}" alt="" coords="5,180,220,387"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1FuzzyConnectedness.html" title="{LatticeLib::FuzzyConnectedness\&lt; T \&gt;\n|# norm\l|+ FuzzyConnectedness()\l+ ~FuzzyConnectedness()\l+ update()\l}" alt="" coords="244,233,488,333"/>
+<area shape="rect" id="node4" href="$classLatticeLib_1_1FuzzyDistance.html" title="{LatticeLib::FuzzyDistance\&lt; T \&gt;\n|# norm\l|+ FuzzyDistance()\l+ ~FuzzyDistance()\l+ update()\l}" alt="" coords="512,233,716,333"/>
+<area shape="rect" id="node5" href="$classLatticeLib_1_1GeodesicDistance.html" title="{LatticeLib::GeodesicDistance\&lt; T \&gt;\n||+ GeodesicDistance()\l+ ~GeodesicDistance()\l+ update()\l}" alt="" coords="740,233,965,333"/>
+<area shape="rect" id="node6" href="$classLatticeLib_1_1MinimumBarrierDistance.html" title="{LatticeLib::MinimumBarrier\lDistance\&lt; T \&gt;\n|# pathMinimumValue\l# pathMaximumValue\l# preliminaryRoots\l|+ MinimumBarrierDistance()\l+ ~MinimumBarrierDistance()\l+ setup()\l+ initialize()\l+ update()\l+ clear()\l}" alt="" coords="990,193,1185,373"/>
+</map>

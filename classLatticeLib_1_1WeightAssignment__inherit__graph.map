@@ -1,0 +1,4 @@
+<map id="LatticeLib::WeightAssignment&lt; intensityTemplate &gt;" name="LatticeLib::WeightAssignment&lt; intensityTemplate &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1IsotropicGaussianWeight.html" title="{LatticeLib::IsotropicGaussian\lWeight\&lt; intensityTemplate \&gt;\n|&#45; standardDeviation\l|+ IsotropicGaussianWeight()\l+ getStandardDeviation()\l+ setStandardDeviation()\l+ compute()\l}" alt="" coords="5,140,198,267"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1UniformWeight.html" title="{LatticeLib::UniformWeight\l\&lt; intensityTemplate \&gt;\n||+ compute()\l}" alt="" coords="221,160,395,247"/>
+</map>

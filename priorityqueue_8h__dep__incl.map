@@ -1,0 +1,15 @@
+<map id="src/priorityqueue.h" name="src/priorityqueue.h">
+<area shape="rect" id="node2" href="$distancemeasure_8h.html" title="src/distancemeasure.h" alt="" coords="985,152,1140,177"/>
+<area shape="rect" id="node3" href="$antialiasedeuclideandistance_8h.html" title="src/antialiasedeuclideandistance.h" alt="" coords="535,225,760,251"/>
+<area shape="rect" id="node11" href="$seededdistancemeasure_8h.html" title="src/seededdistancemeasure.h" alt="" coords="232,79,431,104"/>
+<area shape="rect" id="node13" href="$seededdistancetransform_8h.html" title="src/seededdistancetransform.h" alt="" coords="346,152,549,177"/>
+<area shape="rect" id="node14" href="$segmentation_8h.html" title="src/segmentation.h" alt="" coords="378,225,512,251"/>
+<area shape="rect" id="node4" href="$distancetransform_8h.html" title="src/distancetransform.h" alt="" coords="1593,225,1753,251"/>
+<area shape="rect" id="node5" href="$fuzzyconnectedness_8h.html" title="src/fuzzyconnectedness.h" alt="" coords="1236,225,1411,251"/>
+<area shape="rect" id="node8" href="$fuzzydistance_8h.html" title="src/fuzzydistance.h" alt="" coords="1435,225,1570,251"/>
+<area shape="rect" id="node9" href="$geodesicdistance_8h.html" title="src/geodesicdistance.h" alt="" coords="784,225,941,251"/>
+<area shape="rect" id="node10" href="$minimumbarrierdistance_8h.html" title="src/minimumbarrierdistance.h" alt="" coords="964,225,1160,251"/>
+<area shape="rect" id="node6" href="$mrisegmentation_8cpp.html" title="src/mrisegmentation.cpp" alt="" coords="570,299,736,324"/>
+<area shape="rect" id="node7" href="$mrisegmentationhighres_8cpp.html" title="src/mrisegmentationhighres.cpp" alt="" coords="1025,299,1235,324"/>
+<area shape="rect" id="node12" href="$approximateminimumbarrierdistance_8h.html" title="src/approximateminimumbarrierdistance.h" alt="" coords="34,225,304,251"/>
+</map>

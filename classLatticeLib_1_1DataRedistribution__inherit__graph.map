@@ -1,0 +1,4 @@
+<map id="LatticeLib::DataRedistribution&lt; intensityTemplate &gt;" name="LatticeLib::DataRedistribution&lt; intensityTemplate &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1CropIntensityRange.html" title="{LatticeLib::CropIntensity\lRange\&lt; intensityTemplate \&gt;\n||+ CropIntensityRange()\l+ ~CropIntensityRange()\l+ apply()\l}" alt="" coords="5,167,192,280"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1RenormalizeIntensityRange.html" title="{LatticeLib::RenormalizeIntensity\lRange\&lt; intensityTemplate \&gt;\n||+ RenormalizeIntensityRange()\l+ ~RenormalizeIntensityRange()\l+ apply()\l}" alt="" coords="216,167,429,280"/>
+</map>

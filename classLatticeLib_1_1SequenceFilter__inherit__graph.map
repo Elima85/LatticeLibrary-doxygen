@@ -1,0 +1,4 @@
+<map id="LatticeLib::SequenceFilter&lt; intensityTemplate &gt;" name="LatticeLib::SequenceFilter&lt; intensityTemplate &gt;">
+<area shape="rect" id="node2" href="$classLatticeLib_1_1TemplateFilter.html" title="{LatticeLib::TemplateFilter\l\&lt; bool, intensityTemplate \&gt;\n||+ TemplateFilter()\l+ ~TemplateFilter()\l+ applyToBand()\l+ applyToImage()\l}" alt="" coords="6,233,186,360"/>
+<area shape="rect" id="node3" href="$classLatticeLib_1_1SpatialTemplate.html" title="{LatticeLib::SpatialTemplate\l\&lt; bool \&gt;\n|# coefficients\l# neighborhoodSize\l|+ SpatialTemplate()\l+ ~SpatialTemplate()\l+ getNeighborhoodSize()\l+ getNCoefficients()\l+ getCoefficients()\l+ getCoefficient()\l+ findCoefficient()\l}" alt="" coords="5,5,186,185"/>
+</map>
